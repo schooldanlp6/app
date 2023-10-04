@@ -1,2 +1,2 @@
 # app
-a mimnal save to download app repo
+a minmal save to download app repo with foss apps
